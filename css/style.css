@@ -1,0 +1,52 @@
+body{
+	background-color: #8B0000; 
+}
+.button{
+	width: 300px;
+	height: 60px;
+	background-color: white;
+	display: inline-block; 
+	text-align: center; 
+	list-style: none;
+	padding-top: 20px; 
+	border: 3px solid; 
+	border-color: black;
+}
+
+
+a { 
+	color: #8B0000;
+	font-size: 16px; 
+	font-family: sans-serif; 
+}
+
+
+
+h1 {
+	font-size: 70px ;
+	font-family: sans-serif;
+	color: black ;
+	text-align: center;
+}
+
+
+
+.text {
+	font-size:30px;
+	color : black ;
+	font-family : sans-serif ;
+	text-align: center;
+
+}
+
+
+#pic1 {
+	height: 300px; 
+	position: relative; 
+	left: 300px;
+}
+#pic2 {
+	height: 300px; 
+	position: relative;
+	left: 400px; 
+}
